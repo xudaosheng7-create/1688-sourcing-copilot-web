@@ -1,0 +1,12 @@
+{
+  "name": "1688-sourcing-copilot-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Landing page + chat interface for 1688 Sourcing Copilot",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
